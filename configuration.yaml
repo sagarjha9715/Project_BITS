@@ -1,0 +1,10 @@
+# Sample YAML file
+company: OpenAI
+location: San Francisco
+employees:
+  - name: John Doe
+    role: Software Engineer
+  - name: Jane Smith
+    role: Data Scientist
+  - name: Alex Johnson
+    role: Product Manager
