@@ -10,3 +10,5 @@ employees:
     role: Product Manager
   - name: sagar
     role: deployment
+  - name: bits
+  - role: practice
