@@ -8,3 +8,5 @@ employees:
     role: Data Scientist
   - name: Alex Johnson
     role: Product Manager
+  - name: sagar
+    role: deployment
